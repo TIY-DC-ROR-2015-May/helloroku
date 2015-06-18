@@ -2,6 +2,6 @@ require 'sinatra/base'
 
 class MyApp < Sinatra::Base
   get '/' do
-    "Hello, Heroku"
+    "New betterer Hello, Heroku"
   end
 end
